@@ -1,4 +1,4 @@
-# java_and_mysql_Product_inventory
+# Using_java_to_create_mysqlDatabace-jdbc
 using java to create a basic Product inventory databace system using mysql-connectors-j
 
 you can establish connaction to jdbc 
